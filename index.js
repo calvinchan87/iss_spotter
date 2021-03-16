@@ -10,7 +10,7 @@ const { nextISSTimesForMyLocation } = require('./iss');
 //     return;
 //   }
 
-//   console.log("It worked! Returned IP: , ip);
+//   console.log("It worked! Returned IP: ", ip);
 // });
 
 // fetchCoordsByIP("172.103.207.116", (error, data) => {
